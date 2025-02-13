@@ -7,7 +7,10 @@
 		{
 			"Name": "GenshinWar",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
@@ -51,6 +54,10 @@
 			"Name": "KawaiiPhysics",
 			"Enabled": true,
 			"MarketplaceURL": "KawaiiPhysics : Simple fake Physics for UnrealEngine4&5"
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		}
 	]
 }
