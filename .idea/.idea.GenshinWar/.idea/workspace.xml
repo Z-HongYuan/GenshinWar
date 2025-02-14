@@ -12,25 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="创建基本的,大体的框架&#10;创建基础的C++继承类,Level">
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/BP_PlayerCameraManager.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Attribute/GenshinAttributeSet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/GenshinAbilitySystemComponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Component/GenshinMovementComponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Attribute/GenshinAttributeSet.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinAbilitySystemComponent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Animation/GenshinAnimInstance.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PlayerController/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PlayerController/BP_PlayerController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenshinWar.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/GenshinWar.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Controller/PlayerController/GenshinWarPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Controller/PlayerController/GenshinWarPlayerController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Controller/PlayerController/GenshinWarPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Controller/PlayerController/GenshinWarPlayerController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/GameMode/GenshinWarGameMode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/GameMode/GenshinWarGameMode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerState/GenshinPlayerState.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerState/GenshinPlayerState.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinEnemyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinEnemyCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinPlayerCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinPlayerCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +175,7 @@
       <workItem from="1739467950499" duration="714000" />
       <workItem from="1739560115740" duration="151000" />
       <workItem from="1739561915776" duration="131000" />
-      <workItem from="1739562208730" duration="4208000" />
+      <workItem from="1739562208730" duration="4863000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -213,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739564771301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="创建基本的,大体的框架&#10;创建基础的C++继承类,Level">
+      <option name="closed" value="true" />
+      <created>1739566499976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566499976</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
