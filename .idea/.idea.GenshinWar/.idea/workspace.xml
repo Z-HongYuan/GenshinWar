@@ -11,14 +11,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="创建基本的,大体的框架&#10;创建基础的C++继承类,Level">
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinEnemyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinEnemyCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinPlayerCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinPlayerCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +26,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/Controller.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Private/Controller.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Attribute/GenshinAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -175,7 +171,8 @@
       <workItem from="1739467950499" duration="714000" />
       <workItem from="1739560115740" duration="151000" />
       <workItem from="1739561915776" duration="131000" />
-      <workItem from="1739562208730" duration="4863000" />
+      <workItem from="1739562208730" duration="9926000" />
+      <workItem from="1739605823604" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -209,7 +206,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739566499976</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加属性中生命值&#10;添加更改角色默认Movement组件">
+      <option name="closed" value="true" />
+      <created>1739567286982</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739567286982</updated>
+    </task>
+    <task id="LOCAL-00006" summary="实现基础的移动输入和视角输入">
+      <option name="closed" value="true" />
+      <created>1739572070612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739572070612</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +246,8 @@
     <MESSAGE value="初始commit" />
     <MESSAGE value="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode" />
     <MESSAGE value="创建基本的,大体的框架&#10;创建基础的C++继承类,Level" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建基本的,大体的框架&#10;创建基础的C++继承类,Level" />
+    <MESSAGE value="添加属性中生命值&#10;添加更改角色默认Movement组件" />
+    <MESSAGE value="实现基础的移动输入和视角输入" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现基础的移动输入和视角输入" />
   </component>
 </project>
