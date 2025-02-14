@@ -8,6 +8,7 @@
 
 /**
  * 基础游戏规则
+ * 没有什么东西
  */
 UCLASS()
 class GENSHINWAR_API AGenshinWarGameMode : public AGameModeBase
