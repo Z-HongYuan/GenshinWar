@@ -11,9 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +170,7 @@
       <workItem from="1739560115740" duration="151000" />
       <workItem from="1739561915776" duration="131000" />
       <workItem from="1739562208730" duration="9926000" />
-      <workItem from="1739605823604" duration="607000" />
+      <workItem from="1739605823604" duration="3925000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -222,7 +220,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739572070612</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="实现基础的移动输入和视角输入">
+      <option name="closed" value="true" />
+      <created>1739611672823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739611672823</updated>
+    </task>
+    <task id="LOCAL-00008" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件">
+      <option name="closed" value="true" />
+      <created>1739613528069</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739613528069</updated>
+    </task>
+    <task id="LOCAL-00009" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件">
+      <option name="closed" value="true" />
+      <created>1739613740022</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739613740022</updated>
+    </task>
+    <task id="LOCAL-00010" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边">
+      <option name="closed" value="true" />
+      <created>1739614144826</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739614144826</updated>
+    </task>
+    <task id="LOCAL-00011" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略">
+      <option name="closed" value="true" />
+      <created>1739614788518</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739614788518</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +286,10 @@
     <MESSAGE value="创建基本的,大体的框架&#10;创建基础的C++继承类,Level" />
     <MESSAGE value="添加属性中生命值&#10;添加更改角色默认Movement组件" />
     <MESSAGE value="实现基础的移动输入和视角输入" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现基础的移动输入和视角输入" />
+    <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件" />
+    <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件" />
+    <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边" />
+    <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略" />
+    <option name="LAST_COMMIT_MESSAGE" value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略" />
   </component>
 </project>
