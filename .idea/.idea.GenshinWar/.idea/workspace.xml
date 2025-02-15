@@ -11,8 +11,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="导入Mesh资源,更新Render渲染&#10;创建带有ASC组件的BaseActor,ProjectileActor,WeaponActor">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/GenshinActorBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/GenshinActorBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinActorBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinActorBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Animation/GenshinAnimInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Animation/GenshinAnimInstance.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +35,10 @@
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/Controller.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Private/Controller.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Attribute/GenshinAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/GenshinActorBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinEnemyCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinPlayerCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -40,7 +49,10 @@
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/GenshinHUD.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/Widgets/GenshinUserWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Attribute/GenshinAttributeSet.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinActorBase.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Animation/GenshinAnimInstance.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" root0="FORCE_HIGHLIGHTING" />
@@ -175,6 +187,7 @@
       <workItem from="1739605823604" duration="3925000" />
       <workItem from="1739614869275" duration="65000" />
       <workItem from="1739636852444" duration="1227000" />
+      <workItem from="1739638371158" duration="3744000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -272,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739614876889</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="导入Mesh资源,更新Render渲染&#10;创建带有ASC组件的BaseActor,ProjectileActor,WeaponActor">
+      <option name="closed" value="true" />
+      <created>1739644835052</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739644835052</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +323,7 @@
     <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件" />
     <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边" />
     <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略" />
-    <option name="LAST_COMMIT_MESSAGE" value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略" />
+    <MESSAGE value="导入Mesh资源,更新Render渲染&#10;创建带有ASC组件的BaseActor,ProjectileActor,WeaponActor" />
+    <option name="LAST_COMMIT_MESSAGE" value="导入Mesh资源,更新Render渲染&#10;创建带有ASC组件的BaseActor,ProjectileActor,WeaponActor" />
   </component>
 </project>
