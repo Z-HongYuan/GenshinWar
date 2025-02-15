@@ -11,7 +11,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="" />
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,6 +173,8 @@
       <workItem from="1739561915776" duration="131000" />
       <workItem from="1739562208730" duration="9926000" />
       <workItem from="1739605823604" duration="3925000" />
+      <workItem from="1739614869275" duration="65000" />
+      <workItem from="1739636852444" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -260,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739614788518</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略">
+      <option name="closed" value="true" />
+      <created>1739614876889</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739614876889</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
