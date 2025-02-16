@@ -11,72 +11,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="更新各种带有ASC组件的Actor">
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/IK_Lumine_V2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/RTG_Lumine_V2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/IK/IK_Yoimiya.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/IK/RTG_Yoimiya.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/M/Yoimiya_Body_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/M/Yoimiya_Dress2_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/M/Yoimiya_Dress_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/M/Yoimiya_Face_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/M/Yoimiya_Hair_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Avatar_Girl_Gun_Yoimyia_Tex_EyeShine_Mask.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Avatar_Girl_Gun_Yoimyia_Tex_Eye_Mask.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Body/Avatar_Girl_Gun_Yoimiya_Body_Tex_Lightmap_copy.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Body/Avatar_Girl_Gun_Yoimiya_Dress2_Tex_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Body/Avatar_Girl_Gun_Yoimiya_Dress2_Tex_Lightmap.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Body/Avatar_Girl_Gun_Yoimiya_Dress_Tex_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Body/Avatar_Girl_Gun_Yoimiya_Dress_Tex_Lightmap.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Body/Avatar_Girl_Gun_Yoimiya_Tex_Body_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Body/Avatar_Girl_Gun_Yoimiya_Tex_Body_Shadow_Ramp.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Face/Avatar_Girl_Gun_Yoimiya_Tex_Face_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Face/Avatar_Girl_Gun_Yoimiya_Tex_Face_Mask.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Face/Avatar_Tex_Face_Shadow.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Hair/Avatar_Girl_Gun_Yoimiya_Tex_Hair_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Hair/Avatar_Girl_Gun_Yoimiya_Tex_Hair_Lightmap.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/T/Hair/Avatar_Girl_Gun_Yoimiya_Tex_Hair_Shadow_Ramp.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya_PhysicsAsset.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya_Skeleton.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/Bullet/GrenadeLauncherR_001.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/Bullet/GrenadeLauncherR_002.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/GrenadeLauncher.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/GrenadeLauncher_PhysicsAsset.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/GrenadeLauncher_Skeleton.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/M/GrenadeLauncher_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/T/Weapon_Gun_Yoimiya_GrenadeLauncher_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/GrenadeLauncher/T/Weapon_Gun_Yoimiya_GrenadeLauncher_Lightmap.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/Howa20.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/Howa20_PhysicsAsset.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/Howa20_Skeleton.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/M/HoYoverse_-_Howa20_Scope.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/M/Howa202_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/M/Howa20_GenshinShader_MI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/T/Weapon_Gun_Yoimiya_Howa202_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/T/Weapon_Gun_Yoimiya_Howa202_Lightmap.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/T/Weapon_Gun_Yoimiya_Howa20_Diffuse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/T/Weapon_Gun_Yoimiya_Howa20_Lightmap.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AllAssets/WeaponMesh/Howa20/Yoimiya_Howa20.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT_AnimBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT_LocomotionItems.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ALI_AnimationItems.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/BPI_CameraInfo.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/SKM_Camera.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/SK_Camera.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/9/HX/GSOJPTDVFVSVOSKXT3VY5C.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/C/LG/VOSYPQDD8S4MMQZBZ8AI9R.uasset" afterDir="false" />
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/BP_PlayerCameraManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/BP_PlayerCameraManager.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PlayerController/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/PlayerController/BP_PlayerController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PlayerState/BP_PlayerState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/PlayerState/BP_PlayerState.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/Controller/PlayerController/GenshinWarPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/Controller/PlayerController/GenshinWarPlayerController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/UI/GenshinHUD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/UI/GenshinHUD.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Controller/PlayerController/GenshinWarPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Controller/PlayerController/GenshinWarPlayerController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/UI/GenshinHUD.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/UI/GenshinHUD.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +27,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Core/Public/Math/MathFwd.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Classes/Components/PrimitiveComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/Controller.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Private/Controller.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -118,6 +59,7 @@
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Component/GenshinSdfComponent.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Controller/PlayerController/GenshinWarPlayerController.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/GameMode/GenshinWarGameMode.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerState/GenshinPlayerState.h" root0="FORCE_HIGHLIGHTING" />
@@ -144,7 +86,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLogSettings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -248,7 +190,10 @@
       <workItem from="1739605823604" duration="3925000" />
       <workItem from="1739614869275" duration="65000" />
       <workItem from="1739636852444" duration="1227000" />
-      <workItem from="1739638371158" duration="8185000" />
+      <workItem from="1739638371158" duration="8389000" />
+      <workItem from="1739695707712" duration="10698000" />
+      <workItem from="1739770838374" duration="1815000" />
+      <workItem from="1739781336322" duration="1628000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -362,7 +307,71 @@
       <option name="project" value="LOCAL" />
       <updated>1739645622840</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="导入Yoimyia等Mesh资源并且设置&#10;添加导入后的IK&#10;创建共享ABP&#10;添加LookRate">
+      <option name="closed" value="true" />
+      <created>1739653890772</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739653890772</updated>
+    </task>
+    <task id="LOCAL-00016" summary="HUD初始化MainWidget&#10;添加SDF组件">
+      <option name="closed" value="true" />
+      <created>1739701971793</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739701971793</updated>
+    </task>
+    <task id="LOCAL-00017" summary="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件">
+      <option name="closed" value="true" />
+      <created>1739702479289</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739702479289</updated>
+    </task>
+    <task id="LOCAL-00018" summary="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info">
+      <option name="closed" value="true" />
+      <created>1739702837189</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1739702837189</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数">
+      <option name="closed" value="true" />
+      <created>1739704013729</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739704013729</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数">
+      <option name="closed" value="true" />
+      <created>1739707134143</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739707134143</updated>
+    </task>
+    <task id="LOCAL-00021" summary="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内">
+      <option name="closed" value="true" />
+      <created>1739708212874</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739708212874</updated>
+    </task>
+    <task id="LOCAL-00022" summary="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内">
+      <option name="closed" value="true" />
+      <created>1739781478242</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739781478242</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,6 +403,12 @@
     <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略" />
     <MESSAGE value="导入Mesh资源,更新Render渲染&#10;创建带有ASC组件的BaseActor,ProjectileActor,WeaponActor" />
     <MESSAGE value="更新各种带有ASC组件的Actor" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新各种带有ASC组件的Actor" />
+    <MESSAGE value="导入Yoimyia等Mesh资源并且设置&#10;添加导入后的IK&#10;创建共享ABP&#10;添加LookRate" />
+    <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件" />
+    <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件" />
+    <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info" />
+    <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数" />
+    <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内" />
+    <option name="LAST_COMMIT_MESSAGE" value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内" />
   </component>
 </project>
