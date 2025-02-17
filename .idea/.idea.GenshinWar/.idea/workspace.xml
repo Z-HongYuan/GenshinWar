@@ -12,10 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内">
+      <change afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/Widgets/WBP_Main.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Widgets/WBP_Main.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -409,6 +409,7 @@
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内" />
-    <option name="LAST_COMMIT_MESSAGE" value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数&#10;绑定Move属性到移动组件内" />
+    <MESSAGE value="取消" />
+    <option name="LAST_COMMIT_MESSAGE" value="取消" />
   </component>
 </project>
