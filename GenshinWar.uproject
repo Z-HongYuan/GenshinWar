@@ -13,7 +13,8 @@
 				"UMG",
 				"GameplayAbilities",
 				"EnhancedInput",
-				"CoreUObject"
+				"CoreUObject",
+				"ChaosVehicles"
 			]
 		}
 	],

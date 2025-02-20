@@ -11,8 +11,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="添加Chaos载具的支持">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Vehicle/GenshinVehiclePawn.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Vehicle/GenshinVehiclePawn.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,8 @@
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Private/Controller.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Engine/Private/PlayerController.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Private/ChaosVehicles.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Public/ChaosVehicles.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -52,6 +55,7 @@
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/GenshinHUD.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/WidgetController/GenshinWidgetController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/Widgets/GenshinUserWidget.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Vehicle/GenshinVehiclePawn.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="FORCE_HIGHLIGHTING" />
@@ -67,6 +71,7 @@
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Input/Data/GenshinInputDataAsset.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/UI/GenshinHUD.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/UI/Widgets/GenshinUserWidget.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Vehicle/GenshinVehiclePawn.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -88,7 +93,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "CodeLensConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -200,7 +205,7 @@
       <workItem from="1739975221103" duration="95000" />
       <workItem from="1739975606426" duration="52000" />
       <workItem from="1739975671362" duration="1029000" />
-      <workItem from="1740026255821" duration="11374000" />
+      <workItem from="1740026255821" duration="15268000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -466,7 +471,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740037760227</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="完善UI底层架构使用MVC框架">
+      <option name="closed" value="true" />
+      <created>1740038515081</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038515081</updated>
+    </task>
+    <task id="LOCAL-00035" summary="添加Chaos载具的支持">
+      <option name="closed" value="true" />
+      <created>1740040408469</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1740040408469</updated>
+    </task>
+    <task id="LOCAL-00036" summary="添加Chaos载具的支持">
+      <option name="closed" value="true" />
+      <created>1740041310686</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041310686</updated>
+    </task>
+    <task id="LOCAL-00037" summary="添加Chaos载具的支持">
+      <option name="closed" value="true" />
+      <created>1740041425805</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041425805</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,6 +560,7 @@
     <MESSAGE value="完善GAS输入绑定" />
     <MESSAGE value="完善GAS输入绑定,自动激活函数" />
     <MESSAGE value="完善UI底层架构使用MVC框架" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善UI底层架构使用MVC框架" />
+    <MESSAGE value="添加Chaos载具的支持" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加Chaos载具的支持" />
   </component>
 </project>
