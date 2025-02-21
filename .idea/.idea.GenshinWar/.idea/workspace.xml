@@ -11,10 +11,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="完善一些小技能和UI">
-      <change afterPath="$PROJECT_DIR$/Content/Levels/MainMenu_Level.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode.uasset" afterDir="false" />
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,6 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Plugins/Runtime/Database/SQLiteCore/Source/SQLiteCore/Private/sqlite/sqlite3.inl" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Editor/BlueprintGraph/BlueprintGraph.Build.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Programs/Shared/EpicGames.Build/UEBuildPlatformSDK.cs" root0="FORCE_HIGHLIGHTING" />
@@ -48,6 +45,7 @@
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Private/ChaosVehicles.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Public/ChaosVehicles.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/GenshinWar.uproject" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -93,21 +91,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ 项目.GenshinWar.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ 项目.GenshinWar.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ 项目.GenshinWar">
     <configuration name="GenshinWar" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -222,6 +220,7 @@
       <workItem from="1740049293659" duration="6735000" />
       <workItem from="1740061342920" duration="1888000" />
       <workItem from="1740113925869" duration="2452000" />
+      <workItem from="1740145122498" duration="569000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -559,7 +558,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740131287076</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="完善一些小技能和UI">
+      <option name="closed" value="true" />
+      <created>1740131907489</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1740131907489</updated>
+    </task>
+    <task id="LOCAL-00044" summary="添加主菜单Level,Menu等">
+      <option name="closed" value="true" />
+      <created>1740136500521</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1740136500521</updated>
+    </task>
+    <task id="LOCAL-00045" summary="添加主菜单Level,Menu等">
+      <option name="closed" value="true" />
+      <created>1740137483352</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1740137483352</updated>
+    </task>
+    <task id="LOCAL-00046" summary="添加主菜单Level,Menu等">
+      <option name="closed" value="true" />
+      <created>1740145426634</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1740145426634</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +623,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="添加属性中生命值&#10;添加更改角色默认Movement组件" />
     <MESSAGE value="实现基础的移动输入和视角输入" />
     <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件" />
     <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件" />
@@ -617,6 +647,7 @@
     <MESSAGE value="添加Chaos载具类,并且添加ASC等组件" />
     <MESSAGE value="完善摄像机系统" />
     <MESSAGE value="完善一些小技能和UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善一些小技能和UI" />
+    <MESSAGE value="添加主菜单Level,Menu等" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加主菜单Level,Menu等" />
   </component>
 </project>
