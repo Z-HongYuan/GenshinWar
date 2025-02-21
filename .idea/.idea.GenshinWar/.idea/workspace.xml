@@ -11,9 +11,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="完善摄像机系统">
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/Animations/Lyra/ABP_Lyra.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/Animations/Lyra/ABP_LyraItems.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/Animations/Lyra/ABP_LyraItems_Child.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerCameraManager/GenshinPlayerCameraManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerCameraManager/GenshinPlayerCameraManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/IK_Lumine_V2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/IK_Lumine_V2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/RTG_Lumine_V2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/RTG_Lumine_V2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_AnimationBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_AnimationBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_LocomotionItems.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_LocomotionItems.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/ALS_N_Mantle_2m.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/ALS_N_Mantle_2m.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Animations/ABS_Lean.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Animations/ABS_Lean.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Effects/AnimationNotifies/AN_FootPlant_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Effects/AnimationNotifies/AN_FootPlant_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Meshes/IK_UE5_Manny.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Meshes/IK_UE5_Manny.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +231,7 @@
       <workItem from="1740045590947" duration="1549000" />
       <workItem from="1740049293659" duration="6735000" />
       <workItem from="1740061342920" duration="1888000" />
-      <workItem from="1740113925869" duration="149000" />
+      <workItem from="1740113925869" duration="2452000" />
     </task>
     <task id="LOCAL-00001" summary="完成初始化项目设置/编辑器设置/启用GameplayAbility&#10;新添加GameMode">
       <option name="closed" value="true" />
@@ -541,7 +553,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740063194837</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="完善摄像机系统">
+      <option name="closed" value="true" />
+      <created>1740114082195</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1740114082195</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,8 +617,8 @@
     <MESSAGE value="完善GAS输入绑定,自动激活函数" />
     <MESSAGE value="完善UI底层架构使用MVC框架" />
     <MESSAGE value="添加Chaos载具类,并且添加ASC等组件" />
-    <MESSAGE value="完善摄像机系统" />
     <MESSAGE value="添加Chaos载具类,并且添加ASC等组件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加Chaos载具类,并且添加ASC等组件" />
+    <MESSAGE value="完善摄像机系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善摄像机系统" />
   </component>
 </project>
