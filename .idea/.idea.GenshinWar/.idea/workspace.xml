@@ -11,21 +11,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="完善摄像机系统">
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/Animations/Lyra/ABP_Lyra.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/Animations/Lyra/ABP_LyraItems.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/Animations/Lyra/ABP_LyraItems_Child.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/IK_Lumine_V2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/IK_Lumine_V2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/RTG_Lumine_V2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Lumine/Lumine_V2/IK/RTG_Lumine_V2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_AnimationBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_AnimationBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_LocomotionItems.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AnimationSystem/ABPT/LyraAnimation/ABPT_LocomotionItems.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/ALS_N_Mantle_2m.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/ALS_N_Mantle_2m.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Animations/ABS_Lean.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Animations/ABS_Lean.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Effects/AnimationNotifies/AN_FootPlant_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Effects/AnimationNotifies/AN_FootPlant_Left.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Meshes/IK_UE5_Manny.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ReferenceOtherAssets/Anims/Mannequin_Lyra/Meshes/IK_UE5_Manny.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Render/3To2/GenshinShader/GenshinShader_M.uasset" afterDir="false" />
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="完善一些小技能和UI">
+      <change afterPath="$PROJECT_DIR$/Content/Levels/MainMenu_Level.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +29,7 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Plugins/Runtime/Database/SQLiteCore/Source/SQLiteCore/Private/sqlite/sqlite3.inl" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Editor/BlueprintGraph/BlueprintGraph.Build.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Programs/Shared/EpicGames.Build/UEBuildPlatformSDK.cs" root0="FORCE_HIGHLIGHTING" />
@@ -103,21 +93,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ 项目.GenshinWar.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ 项目.GenshinWar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C/C++ 项目.GenshinWar">
     <configuration name="GenshinWar" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -561,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740114082195</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="完善一些小技能和UI">
+      <option name="closed" value="true" />
+      <created>1740131287076</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1740131287076</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +592,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="创建基本的,大体的框架&#10;创建基础的C++继承类,Level" />
     <MESSAGE value="添加属性中生命值&#10;添加更改角色默认Movement组件" />
     <MESSAGE value="实现基础的移动输入和视角输入" />
     <MESSAGE value="迁移3to2渲染文件&#10;迁移PPM后处理材质文件" />
@@ -619,6 +616,7 @@
     <MESSAGE value="添加Chaos载具类,并且添加ASC等组件" />
     <MESSAGE value="添加Chaos载具类,并且添加ASC等组件" />
     <MESSAGE value="完善摄像机系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善摄像机系统" />
+    <MESSAGE value="完善一些小技能和UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善一些小技能和UI" />
   </component>
 </project>
