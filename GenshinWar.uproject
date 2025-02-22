@@ -14,7 +14,8 @@
 				"GameplayAbilities",
 				"EnhancedInput",
 				"CoreUObject",
-				"ChaosVehicles"
+				"ChaosVehicles",
+				"AIModule"
 			]
 		}
 	],
@@ -66,6 +67,10 @@
 		},
 		{
 			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "UNTLink",
 			"Enabled": true
 		}
 	]
