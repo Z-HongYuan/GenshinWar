@@ -12,9 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/TargetDataActor/GenshinAbilityTargetActor_LineTrace.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/TargetDataActor/GenshinAbilityTargetActor_Trace.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/TargetDataActor/GenshinAbilityTargetActor_LineTrace.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/TargetDataActor/GenshinAbilityTargetActor_Trace.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/M/Yoimiya_Face_GenshinShader_MI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/M/Yoimiya_Face_GenshinShader_MI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,7 @@
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/TargetDataActor/GenshinAbilityTargetActor_Trace.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Attribute/GenshinAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/GenshinActorBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -231,6 +234,8 @@
       <workItem from="1740211419098" duration="2539000" />
       <workItem from="1740242156877" duration="2930000" />
       <workItem from="1740246774809" duration="131000" />
+      <workItem from="1740479098556" duration="814000" />
+      <workItem from="1740544897106" duration="1949000" />
     </task>
     <task id="LOCAL-00003" summary="创建基本的,大体的框架&#10;创建基础的C++继承类,Level">
       <option name="closed" value="true" />
