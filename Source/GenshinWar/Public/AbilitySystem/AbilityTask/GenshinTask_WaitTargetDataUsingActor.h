@@ -28,7 +28,7 @@ public:
 
 	
 	UFUNCTION(BlueprintCallable, Category="Ability|Tasks", meta = (
-		DisplayName="GWaitTargetDataUsingActor",
+		DisplayName="GenshinTask_WaitTargetDataUsingActor",
 		HidePin = "OwningAbility",
 		DefaultToSelf = "OwningAbility",
 		BlueprintInternalUseOnly = "TRUE",

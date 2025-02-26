@@ -9,7 +9,7 @@ public class GenshinWar : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput" ,
-			"GameplayAbilities","GameplayTags","GameplayTasks", "ChaosVehicles"
+			"GameplayAbilities","GameplayTags","GameplayTasks", "ChaosVehicles", "Paper2D"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
