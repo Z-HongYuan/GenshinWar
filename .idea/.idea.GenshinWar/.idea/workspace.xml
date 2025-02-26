@@ -11,18 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="完善TargetData相关的Task,GetData的Actor">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/GenshinWar.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/GenshinWar.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/AbilityTask/GenshinTask_WaitTargetDataUsingActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/AbilityTask/GenshinTask_WaitTargetDataUsingActor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinAbilitySystemComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinAbilitySystemComponent.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Controller/PlayerController/GenshinPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Controller/PlayerController/GenshinPlayerController.h" afterDir="false" />
-    </list>
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="完善Character上的武器系统" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,13 +44,18 @@
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Private/ChaosVehicles.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Public/ChaosVehicles.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/GenshinWar.Build.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/TargetDataActor/GenshinAbilityTargetActor_Trace.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Attribute/GenshinAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/GenshinActorBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinEnemyCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinPlayerCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Component/GenshinMovementComponent.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -75,17 +69,28 @@
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/WidgetController/GenshinWidgetController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/Widgets/GenshinUserWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Vehicle/GenshinVehiclePawn.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/AbilityTask/GenshinTask_WaitTargetDataUsingActor.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Attribute/GenshinAttributeSet.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/GenshinAbilitySystemComponent.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinActorBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Animation/GenshinAnimInstance.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Controller/AIController/GenshinAIController.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Controller/PlayerController/GenshinPlayerController.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Gameplay/Controller/PlayerController/GenshinPlayerController.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/GameMode/GenshinGameMode.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerCameraManager/GenshinPlayerCameraManager.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerState/GenshinPlayerState.h" root0="FORCE_HIGHLIGHTING" />
@@ -240,55 +245,8 @@
       <workItem from="1740242156877" duration="2930000" />
       <workItem from="1740246774809" duration="131000" />
       <workItem from="1740479098556" duration="814000" />
-      <workItem from="1740544897106" duration="15636000" />
-    </task>
-    <task id="LOCAL-00005" summary="添加属性中生命值&#10;添加更改角色默认Movement组件">
-      <option name="closed" value="true" />
-      <created>1739567286982</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1739567286982</updated>
-    </task>
-    <task id="LOCAL-00006" summary="实现基础的移动输入和视角输入">
-      <option name="closed" value="true" />
-      <created>1739572070612</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1739572070612</updated>
-    </task>
-    <task id="LOCAL-00007" summary="实现基础的移动输入和视角输入">
-      <option name="closed" value="true" />
-      <created>1739611672823</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1739611672823</updated>
-    </task>
-    <task id="LOCAL-00008" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件">
-      <option name="closed" value="true" />
-      <created>1739613528069</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1739613528069</updated>
-    </task>
-    <task id="LOCAL-00009" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件">
-      <option name="closed" value="true" />
-      <created>1739613740022</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1739613740022</updated>
-    </task>
-    <task id="LOCAL-00010" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边">
-      <option name="closed" value="true" />
-      <created>1739614144826</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1739614144826</updated>
+      <workItem from="1740544897106" duration="22658000" />
+      <workItem from="1740585239185" duration="2707000" />
     </task>
     <task id="LOCAL-00011" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略">
       <option name="closed" value="true" />
@@ -634,7 +592,55 @@
       <option name="project" value="LOCAL" />
       <updated>1740559423304</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="添加注释&#10;完善Weapon类">
+      <option name="closed" value="true" />
+      <created>1740578148357</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1740578148357</updated>
+    </task>
+    <task id="LOCAL-00055" summary="完善Character上的武器系统">
+      <option name="closed" value="true" />
+      <created>1740581756928</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1740581756928</updated>
+    </task>
+    <task id="LOCAL-00056" summary="完善Character上的武器系统">
+      <option name="closed" value="true" />
+      <created>1740582327657</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1740582327657</updated>
+    </task>
+    <task id="LOCAL-00057" summary="完善Character上的武器系统">
+      <option name="closed" value="true" />
+      <created>1740585055244</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1740585055244</updated>
+    </task>
+    <task id="LOCAL-00058" summary="完善Character上的武器系统">
+      <option name="closed" value="true" />
+      <created>1740585568104</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1740585568104</updated>
+    </task>
+    <task id="LOCAL-00059" summary="完善Character上的武器系统">
+      <option name="closed" value="true" />
+      <created>1740587677811</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1740587677812</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,8 +673,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="导入Mesh资源,更新Render渲染&#10;创建带有ASC组件的BaseActor,ProjectileActor,WeaponActor" />
-    <MESSAGE value="更新各种带有ASC组件的Actor" />
     <MESSAGE value="导入Yoimyia等Mesh资源并且设置&#10;添加导入后的IK&#10;创建共享ABP&#10;添加LookRate" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件" />
@@ -692,6 +696,8 @@
     <MESSAGE value="更新项目&#10;重命名文件,移动文件,添加AIController" />
     <MESSAGE value="添加武器系统所需要的工具类" />
     <MESSAGE value="完善TargetData相关的Task,GetData的Actor" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善TargetData相关的Task,GetData的Actor" />
+    <MESSAGE value="添加注释&#10;完善Weapon类" />
+    <MESSAGE value="完善Character上的武器系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善Character上的武器系统" />
   </component>
 </project>
