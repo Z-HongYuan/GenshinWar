@@ -11,7 +11,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="完善Character上的武器系统" />
+    <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="添加UE5小白人,完善武器系统">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,23 +250,8 @@
       <workItem from="1740246774809" duration="131000" />
       <workItem from="1740479098556" duration="814000" />
       <workItem from="1740544897106" duration="22658000" />
-      <workItem from="1740585239185" duration="2707000" />
-    </task>
-    <task id="LOCAL-00011" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略">
-      <option name="closed" value="true" />
-      <created>1739614788518</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1739614788518</updated>
-    </task>
-    <task id="LOCAL-00012" summary="迁移3to2渲染文件&#10;迁移PPM后处理材质文件&#10;迁移科幻Box资产文件&#10;添加大世界后处理体积Base用于自定义深度的描边&#10;修改BaseGA的默认实例化策略">
-      <option name="closed" value="true" />
-      <created>1739614876889</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1739614876889</updated>
+      <workItem from="1740585239185" duration="3059000" />
+      <workItem from="1740639886237" duration="11062000" />
     </task>
     <task id="LOCAL-00013" summary="导入Mesh资源,更新Render渲染&#10;创建带有ASC组件的BaseActor,ProjectileActor,WeaponActor">
       <option name="closed" value="true" />
@@ -640,7 +629,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740587677812</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="完善Character上的武器系统">
+      <option name="closed" value="true" />
+      <created>1740588050611</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1740588050611</updated>
+    </task>
+    <task id="LOCAL-00061" summary="添加UE5小白人,完善武器系统">
+      <option name="closed" value="true" />
+      <created>1740667647176</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1740667647176</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -673,7 +678,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="导入Yoimyia等Mesh资源并且设置&#10;添加导入后的IK&#10;创建共享ABP&#10;添加LookRate" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info" />
@@ -698,6 +702,7 @@
     <MESSAGE value="完善TargetData相关的Task,GetData的Actor" />
     <MESSAGE value="添加注释&#10;完善Weapon类" />
     <MESSAGE value="完善Character上的武器系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善Character上的武器系统" />
+    <MESSAGE value="添加UE5小白人,完善武器系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加UE5小白人,完善武器系统" />
   </component>
 </project>
