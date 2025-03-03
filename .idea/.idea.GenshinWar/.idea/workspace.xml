@@ -12,11 +12,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/AbilitySystem/Effects/DefaultAttribute/GE_Rage.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode_MainMenu.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Levels/MainEmptyLevel.umap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/6/HP/9CVIPHQUMEBM1BPA4NGV0V.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock17_Primary.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock17_Primary.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/CookerOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/CookerOpenOrder.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/EditorOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/EditorOpenOrder.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/CharacterAbility/02_CallWheel/GA_CallWheel.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/CharacterAbility/02_CallWheel/GA_CallWheel.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock17_Primary.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock17_Secondary.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock_Test.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GC_ShootingEffect.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GE_Glock17_Primary_Cost.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Howa20/GA_Howa20_Primary.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Howa20/GA_Howa20_Secondary.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/ProjectileActor/BP_Grenade.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AbilitySystem/ProjectileActor/BP_Grenade.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/WeaponActor/HandGun/Glock17/BP_Glock17.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/WeaponActor/Rifle/Howa20/BP_Howa20.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya_Skeleton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AllAssets/VehiclesMesh/Heli/Heli_PhysicsAsset.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/VehiclesMesh/Heli/Heli_PhysicsAsset.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/MainMenu/MainMenu_Level.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/MainMenu/MainMenu_Level.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/OpenWorld_Main.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/OpenWorld_Main.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/OtherLevels/TestWorld.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/OtherLevels/TestWorld.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/Widgets/WBP_Main.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Widgets/WBP_Main.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/0/9S/D4SF6RGAA20H8R4NHY8ABE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/0/9S/D4SF6RGAA20H8R4NHY8ABE.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/4/Z4/JUA1R7ASWO3NA1NWNRGKJ6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/4/Z4/JUA1R7ASWO3NA1NWNRGKJ6.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/E/TH/YDW08TIQYPSGKTYT4O1VHB.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +78,14 @@
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Private/ChaosVehicles.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/Experimental/ChaosVehicles/ChaosVehiclesEngine/Public/ChaosVehicles.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE/UE_5.5/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/GenshinWar.Build.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Abilities/GenshinAbilityBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinWeaponActor.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/TargetDataActor/GenshinAbilityTargetActor_Trace.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Attribute/GenshinAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/GenshinActorBase.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Animation/GenshinAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Private/Characters/GenshinCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinEnemyCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Characters/GenshinPlayerCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Component/GenshinMovementComponent.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -75,28 +99,18 @@
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/WidgetController/GenshinWidgetController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/UI/Widgets/GenshinUserWidget.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Private/Vehicle/GenshinVehiclePawn.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Abilities/GenshinAbilityBase.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/AbilityTask/GenshinTask_WaitTargetDataUsingActor.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinProjectileActor.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Actor/GenshinWeaponActor.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/Attribute/GenshinAttributeSet.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/AbilitySystem/GenshinAbilitySystemComponent.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/AbilitySystem/GenshinActorBase.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Characters/GenshinCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinEnemyCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Characters/GenshinPlayerCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Component/GenshinMovementComponent.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Animation/GenshinAnimInstance.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Controller/AIController/GenshinAIController.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/Controller/PlayerController/GenshinPlayerController.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/APPs/UEData/GenshinWar/Source/GenshinWar/Public/Gameplay/Controller/PlayerController/GenshinPlayerController.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/GameMode/GenshinGameMode.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerCameraManager/GenshinPlayerCameraManager.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/GenshinWar/Public/Gameplay/PlayerState/GenshinPlayerState.h" root0="FORCE_HIGHLIGHTING" />
@@ -125,7 +139,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Code Search&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -253,15 +267,13 @@
       <workItem from="1740479098556" duration="814000" />
       <workItem from="1740544897106" duration="22658000" />
       <workItem from="1740585239185" duration="3059000" />
-      <workItem from="1740639886237" duration="11891000" />
-    </task>
-    <task id="LOCAL-00014" summary="更新各种带有ASC组件的Actor">
-      <option name="closed" value="true" />
-      <created>1739645622840</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1739645622840</updated>
+      <workItem from="1740639886237" duration="12887000" />
+      <workItem from="1740716392544" duration="602000" />
+      <workItem from="1740720847926" duration="1225000" />
+      <workItem from="1740722136251" duration="3862000" />
+      <workItem from="1740743705672" duration="1330000" />
+      <workItem from="1741009234104" duration="78000" />
+      <workItem from="1741009412514" duration="3092000" />
     </task>
     <task id="LOCAL-00015" summary="导入Yoimyia等Mesh资源并且设置&#10;添加导入后的IK&#10;创建共享ABP&#10;添加LookRate">
       <option name="closed" value="true" />
@@ -647,7 +659,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740667911426</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="修复抛射物的碰撞">
+      <option name="closed" value="true" />
+      <created>1740670617177</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1740670617177</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,7 +700,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info" />
     <MESSAGE value="HUD初始化MainWidget&#10;添加SDF组件&#10;创建基础的ASC组件,创建基础的继承关系,创建Init总函数,实现初始化Info,实现初始化技能,属性函数" />
@@ -705,6 +724,7 @@
     <MESSAGE value="添加注释&#10;完善Weapon类" />
     <MESSAGE value="完善Character上的武器系统" />
     <MESSAGE value="添加UE5小白人,完善武器系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加UE5小白人,完善武器系统" />
+    <MESSAGE value="修复抛射物的碰撞" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复抛射物的碰撞" />
   </component>
 </project>
