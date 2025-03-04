@@ -12,39 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76430518-74ab-485a-a00d-281eab02d733" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/AbilitySystem/Effects/DefaultAttribute/GE_Rage.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Gameplay/GameMode/BP_GameMode_MainMenu.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Levels/MainEmptyLevel.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/6/HP/9CVIPHQUMEBM1BPA4NGV0V.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GenshinWar/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/CookerOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/CookerOpenOrder.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/EditorOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Windows/FileOpenOrder/EditorOpenOrder.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/CharacterAbility/02_CallWheel/GA_CallWheel.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/CharacterAbility/02_CallWheel/GA_CallWheel.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock17_Primary.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock17_Secondary.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GA_Glock_Test.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GC_ShootingEffect.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Glock17/GE_Glock17_Primary_Cost.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Howa20/GA_Howa20_Primary.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/Abilities/WeaponAbility/Howa20/GA_Howa20_Secondary.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/ProjectileActor/BP_Grenade.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AbilitySystem/ProjectileActor/BP_Grenade.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/WeaponActor/HandGun/Glock17/BP_Glock17.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AbilitySystem/WeaponActor/Rifle/Howa20/BP_Howa20.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/CharacterMesh/Yoimiya/Yoimiya_Skeleton.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllAssets/VehiclesMesh/Heli/Heli_PhysicsAsset.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AllAssets/VehiclesMesh/Heli/Heli_PhysicsAsset.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CameraSystem/ABP_Camera.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Player/BP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/MainEmptyLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/MainEmptyLevel.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/MainMenu/MainMenu_Level.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/MainMenu/MainMenu_Level.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/OpenWorld_Main.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/OpenWorld_Main.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/OtherLevels/TestWorld.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/OtherLevels/TestWorld.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Widgets/WBP_Main.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Widgets/WBP_Main.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/0/9S/D4SF6RGAA20H8R4NHY8ABE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/0/9S/D4SF6RGAA20H8R4NHY8ABE.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/4/Z4/JUA1R7ASWO3NA1NWNRGKJ6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/4/Z4/JUA1R7ASWO3NA1NWNRGKJ6.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Levels/OpenWorld_Main/E/TH/YDW08TIQYPSGKTYT4O1VHB.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GenshinWar/Private/AbilitySystem/Actor/GenshinProjectileActor.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,15 +244,7 @@
       <workItem from="1740722136251" duration="3862000" />
       <workItem from="1740743705672" duration="1330000" />
       <workItem from="1741009234104" duration="78000" />
-      <workItem from="1741009412514" duration="3092000" />
-    </task>
-    <task id="LOCAL-00015" summary="导入Yoimyia等Mesh资源并且设置&#10;添加导入后的IK&#10;创建共享ABP&#10;添加LookRate">
-      <option name="closed" value="true" />
-      <created>1739653890772</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1739653890772</updated>
+      <workItem from="1741009412514" duration="4421000" />
     </task>
     <task id="LOCAL-00016" summary="HUD初始化MainWidget&#10;添加SDF组件">
       <option name="closed" value="true" />
@@ -667,7 +630,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740670617177</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="清理项目">
+      <option name="closed" value="true" />
+      <created>1741017709961</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1741017709961</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +688,6 @@
     <MESSAGE value="完善一些小技能和UI" />
     <MESSAGE value="添加主菜单Level,Menu等" />
     <MESSAGE value="清理项目文件" />
-    <MESSAGE value="清理项目" />
     <MESSAGE value="更新项目&#10;重命名文件,移动文件,添加AIController" />
     <MESSAGE value="添加武器系统所需要的工具类" />
     <MESSAGE value="完善TargetData相关的Task,GetData的Actor" />
@@ -725,6 +695,7 @@
     <MESSAGE value="完善Character上的武器系统" />
     <MESSAGE value="添加UE5小白人,完善武器系统" />
     <MESSAGE value="修复抛射物的碰撞" />
-    <option name="LAST_COMMIT_MESSAGE" value="修复抛射物的碰撞" />
+    <MESSAGE value="清理项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="清理项目" />
   </component>
 </project>
